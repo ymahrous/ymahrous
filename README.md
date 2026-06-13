@@ -11,7 +11,7 @@ I enjoy building software across different layers of the stack—from TypeScript
 ### RISC Pipelined Processor
 VHDL implementation of a pipelined processor exploring instruction execution, pipelining, hazard handling, and CPU architecture concepts.
 
-### NCMag
+### ncmag
 Next.js application built with modern software engineering practices and a scalable project structure.
 
 ## Tech Stack
