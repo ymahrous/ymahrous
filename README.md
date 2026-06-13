@@ -22,4 +22,4 @@ Backend Engineering • Systems Programming • Developer Tools • Distributed 
 
 ## Connect
 
-🔗 **LinkedIn:** [linkedin.com/in/ymahrous](https://linkedin.com/in/ymahrous)
+🔗 [**LinkedIn:**](https://linkedin.com/in/ymahrous)
