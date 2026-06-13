@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yousef Mahrous 👋
 
-<!--
-**ymahrous/ymahrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student and aspiring Software Engineer.
 
-Here are some ideas to get you started:
+I build software across the stack, from modern web applications with TypeScript to low-level systems projects exploring computer architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### RISC Pipelined Processor
+A VHDL implementation of a 6-stage RISC-pipelined processor that explores instruction execution, hazard handling, and CPU architecture concepts.
+
+### ncmag
+A TypeScript-based application focused on scalable software architecture and modern web development practices.
+
+## Tech Stack
+
+Python • TypeScript • JavaScript • Java • C/C++ • VHDL
+
+## Interests
+
+Backend Engineering • Systems Programming • Developer Tools • Distributed Systems
+
+## Connect
+
+🔗 **LinkedIn:** [linkedin.com/in/ymahrous](https://linkedin.com/in/ymahrous)
