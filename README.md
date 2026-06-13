@@ -1,6 +1,6 @@
-# Hi, I'm Yousef Mahrous 👋
+# Hi, I'm Yousef Mahrous
 
-Computer Engineering student focused on software engineering, backend development, and systems programming.
+Computer Engineering student focused on backend systems, full-stack development, and computer architecture.
 
 🔗 [**LinkedIn**](https://linkedin.com/in/ymahrous)
 
