@@ -125,7 +125,7 @@ A modern Next.js application focused on:
 <div align="center">
 
 ```txt
-✦ learning systems · building software · one project at a time ✦
+learning systems · building software · one commit at a time
 ```
 
 </div>
