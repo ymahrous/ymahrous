@@ -51,7 +51,7 @@ Yousef = {
 }
 ```
 
-I enjoy understanding how systems work at every level—from CPU pipelines and hardware design to backend services and modern web applications.
+I enjoy understanding how systems work at every level, from CPU pipelines and hardware design to backend services and modern web applications.
 
 ---
 
