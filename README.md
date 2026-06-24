@@ -47,7 +47,7 @@ Yousef = {
     ],
 
     "currently" :
-        "studying system design and building software architecture"
+        "studying digital design and scalable software architecture"
 }
 ```
 
