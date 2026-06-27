@@ -26,8 +26,10 @@ Yousef = {
         "risc_pipelined_processor" :
             "VHDL CPU with pipelining and hazard handling",
 
-        "ncmag" :
-            "Next.js application built with scalable architecture"
+        "edocAI" :
+            "Transform unstructured invoices and receipts into structured JSON using AI.
+             Built with a focus on asynchronous processing,
+             user isolation, and enterprise-grade cloud architecture."
     },
 
     "working_with" : [
@@ -89,7 +91,7 @@ A VHDL implementation of a pipelined processor exploring:
 * Forwarding and hazard handling
 * CPU architecture fundamentals
 
-#### 🌐 ncmag
+#### 🌐 edocAI
 
 A modern Next.js application focused on:
 
