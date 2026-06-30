@@ -104,11 +104,9 @@ A modern Next.js application focused on:
 
 <div align="center">
 
-### GitHub analytics
+### stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ymahrous&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymahrous&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ymahrous&show_icons=true)](https://github-stats-extended.vercel.app/api?username=ymahrous&show_icons=true)
 
 </div>
 
