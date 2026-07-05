@@ -20,7 +20,7 @@
 
 ```python
 Yousef = {
-    "education" : "Computer Engineering Student",
+    "education" : "computer engineering",
 
     "featured_projects" : {
         "risc_pipelined_processor" :
@@ -93,7 +93,7 @@ A VHDL implementation of a pipelined processor exploring:
 
 #### 🌐 edocAI
 
-A modern Next.js application focused on:
+AI-powered financial document automation focused on:
 
 * Scalable project organization
 * Modern frontend architecture
