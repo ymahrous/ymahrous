@@ -17,64 +17,7 @@
 <img align="right" height="185" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 ### 👋  Hello, visitor
-
-```python
-Yousef = {
-    "education" : "computer engineering",
-
-    "featured_projects" : {
-        "risc_pipelined_processor" :
-            "VHDL CPU with pipelining and hazard handling",
-
-        "edocAI" :
-            "Transform unstructured invoices and receipts into structured JSON using AI.
-             Built with a focus on asynchronous processing,
-             user isolation, and enterprise-grade cloud architecture."
-    },
-
-    "working_with" : [
-        "TypeScript",
-        "Python",
-        "Next.js",
-        "Node.js",
-        "SQL"
-    ],
-
-    "interests" : [
-        "backend systems",
-        "computer architecture",
-        "digital design",
-        "systems programming",
-        "distributed systems"
-    ],
-
-    "currently" :
-        "studying digital design and scalable software architecture"
-}
-```
-
-I enjoy understanding how systems work at every level, from CPU pipelines and hardware design to backend services and modern web applications.
-
 ---
-
-<div align="center">
-
-### toolbox
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" />
-
-</div>
-
----
-
 <div align="center">
 
 ### featured projects
