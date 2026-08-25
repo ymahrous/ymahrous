@@ -16,32 +16,7 @@
 
 <img align="right" height="185" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
-### 👋  Hello, visitor
----
-<div align="center">
-
-### featured projects
-
-</div>
-
-#### ⚡ RISC Pipelined Processor
-
-A VHDL implementation of a pipelined processor exploring:
-
-* Instruction execution
-* Pipeline stages
-* Data and control hazards
-* Forwarding and hazard handling
-* CPU architecture fundamentals
-
-#### 🌐 edocAI
-
-AI-powered financial document automation focused on:
-
-* Scalable project organization
-* Modern frontend architecture
-* TypeScript development
-* Software engineering best practices
+### 👋  Hello, GitHub User
 
 ---
 
