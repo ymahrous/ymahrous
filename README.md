@@ -4,16 +4,6 @@
 
 </div>
 
-<div align="center">
-
-```txt
- ╔══════════════════════════════════════════════════════╗
- ║     building software from silicon to web apps       ║
- ╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
 <img align="right" height="185" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 ### 👋  Hello, GitHub User
