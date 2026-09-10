@@ -14,7 +14,7 @@
 
 ### stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ymahrous&show_icons=true)](https://github-stats-extended.vercel.app/api?username=ymahrous&show_icons=true)
+![GitHubCard](https://githubcard.com/ymahrous.svg)
 
 </div>
 
