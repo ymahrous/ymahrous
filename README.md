@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Yousef%20Mahrous&fontSize=45&fontColor=f5efe6&fontAlign=50&fontAlignY=38&desc=%20backend%20systems%20·%20full-stack%20·%20AI%20&descAlign=50&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
-
-</div>
-
 <img align="right" height="185" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 
 ### 👋  Hello, user
