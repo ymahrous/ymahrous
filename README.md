@@ -6,13 +6,11 @@
 
 <div align="center">
 
-### connect
+### let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://linkedin.com/in/ymahrous)
 
 ---
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ymahrous.ymahrous&left_color=312e81&right_color=4f46e5&left_text=visitors"/>
 
 </div>
 
